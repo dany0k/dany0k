@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 👋My name is Daniil Zmaev. </br>
-&#128187;I am a beginner programmer.
-&#128241;I'm interesting in mobile application development. 
-&#9749;I was learning Java for two years.
-&#129321;Now I'm learning Kotlin for a change. 
+&#128187;I am a beginner programmer. </br>
+&#128241;I'm interesting in mobile application development. </br> 
+&#9749;I was learning Java for two years. </br>
+&#129321;Now I'm learning Kotlin for a change. </br>
 &#129302;Currently I'm working on some projects for Android.
