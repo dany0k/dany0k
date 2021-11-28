@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋My name is Daniil Zmaev.
+👋My name is Daniil Zmaev. </br>
 &#128187;I am a beginner programmer.
 &#128241;I'm interesting in mobile application development. 
 &#9749;I was learning Java for two years.
