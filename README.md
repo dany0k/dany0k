@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+U+1F468 My name is Daniil Zmaev. I am a beginner programmer.
+I'm interesting in mobile application development. I was learning Java for two years.
+Now I'm learning Kotlin for a change. 
