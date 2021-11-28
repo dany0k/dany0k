@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!
 
 <!--
 **dany0k/dany0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-&#128187; My name is Daniil Zmaev. I am a beginner programmer.
-I'm interesting in mobile application development. I was learning Java for two years.
-Now I'm learning Kotlin for a change. 
+👋My name is Daniil Zmaev.
+&#128187;I am a beginner programmer.
+&#128241;I'm interesting in mobile application development. 
+&#9749;I was learning Java for two years.
+&#129321;Now I'm learning Kotlin for a change. 
+&#129302;Currently I'm working on some projects for Android.
